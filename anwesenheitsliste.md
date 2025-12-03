@@ -1,2 +1,3 @@
 - Fabian
 - Mike
+- Frederic
