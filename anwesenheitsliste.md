@@ -4,3 +4,4 @@
 - Pascal
 - Florian
 - Mohamad
+- Michael
